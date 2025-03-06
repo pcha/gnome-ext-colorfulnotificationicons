@@ -1,0 +1,8 @@
+{
+  "name": "Colorful Notification Icons",
+  "description": "Disallow default Gnome behavior grayscaling notification icons.",
+  "uuid": "colorfulnotificationicons@pcha",
+  "shell-version": [
+    "46"
+  ]
+}

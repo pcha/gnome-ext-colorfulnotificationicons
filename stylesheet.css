@@ -1,0 +1,5 @@
+.message .message-header .message-source-icon {
+    -st-icon-style: regular;
+    color: inherit;
+    margin: 4px;
+}
