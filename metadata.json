@@ -2,7 +2,6 @@
   "name": "Colorful Notification Icons",
   "description": "Disallow default Gnome behavior grayscaling notification icons.",
   "uuid": "colorfulnotificationicons@pcha",
-  "shell-version": [
-    "46"
-  ]
+  "shell-version": ["46", "47", "48"],
+  "url": "https://github.com/pcha/gnome-ext-colorfulnotificationicons"
 }
