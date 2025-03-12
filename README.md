@@ -1,6 +1,9 @@
 # 🎨 Colorful Notification Icons
 
-![extension icon](icon.svg)
+<div align="center">
+  <img src="icon.svg" alt="Extension Icon" width="128px">
+</div>
+
 
 GNOME Shell applies a grayscale (symbolic) filter to notification icons by default.  
 This extension disables that behavior, allowing notification icons to keep their original colors.
